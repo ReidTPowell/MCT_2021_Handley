@@ -1,6 +1,4 @@
 # MCT_2021_Handley
-Quality control
-
 Content
 Readme.md       This file
 /Screens        Structured file directory of raw data and results
