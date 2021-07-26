@@ -1,6 +1,7 @@
 # MCT_2021_Handley
 Content
 Readme.md       This file
+/RPPA		Reverse Phase Protein Array data
 /Screens        Structured file directory of raw data and results
 /CCL_metadata   Molecular information for cell lines
 
